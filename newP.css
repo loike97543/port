@@ -1,0 +1,88 @@
+
+.topNav{
+    background-color:lightgray;
+}
+#boxes{
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 5px;
+    border-bottom: 4px;
+    text-decoration: none;
+    font-size: x-large;
+    padding: 16px;
+    position: sticky;
+    color: firebrick;
+    border-style:double;
+    background-color: rgb(103, 187, 226);
+    border-color:lemonchiffon;
+}
+#boxes:hover{
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 5px;
+    border-bottom: 4px;
+    text-decoration: none;
+    font-size: x-large;
+    padding: 16px;
+    position: sticky;
+    background-color: rgb(196, 199, 199);
+    color:rgb(248, 7, 7);
+
+}
+#active {
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 5px;
+    border-bottom: 4px;
+    text-decoration: none;
+    font-size: x-large;
+    padding: 16px;
+    position: sticky;
+    color: firebrick;
+    background-color: green;
+    border-color:brown;
+    border-style:groove;
+}
+.bird {
+    height: 500px;
+    length: 600px;
+    float:left;
+    word-wrap: normal;
+    display:inline-block;
+    width: 600px;
+    height: 500px;
+    padding: 10px;
+}
+.random {
+    float: right;
+    padding: 10px;
+}
+.losing {
+    border-top:10px;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    border-style: solid;
+    border-top-color: rgb(233, 219, 24);
+    border-bottom-color: transparent;
+    border-left-color:transparent;
+    border-right-color:transparent;
+    border-width: 1px;
+    border-length: 1000px;
+    margin-top: 2000px;
+    position:sticky;
+    padding: 30px;
+    background-color:black;
+    color:rgb(104, 105, 105)
+
+}
+body {
+    margin:30px;
+    text-align: justify;
+    margin-right: 100px;
+    margin-left: 30px;
+}
+h1 {
+    margin-left: 30px;
+    font-size: 56pt;
+}

@@ -1,0 +1,42 @@
+.topNav {
+   position: sticky;
+   top: 5px;;
+    padding: 20px;
+
+
+}
+
+
+#active {
+
+}
+#span {
+  
+    border-style:double;
+    border-top: 1px;
+    border-bottom: none;
+    border-color: snow;
+    border-left: none;
+    border-right: none;
+}
+.losing {
+    border-top:10px;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    border-style: solid;
+    border-top-color: ivory;
+    border-bottom-color: transparent;
+    border-left-color:transparent;
+    border-right-color:transparent;
+    border-width: 1px;
+    border-length: 1000px;
+    padding: 30px;
+    position:sticky;
+    bottom:0px;
+    background-color:black;
+    color:rgb(104, 105, 105)
+}
+.span {
+    margin: 1000px;
+}
